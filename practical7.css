@@ -57,3 +57,24 @@ nav ul a:hover {
 .item img {
     width: 300px;
     height: 300px
+    cursor:pointer;
+}
+.itenms button{
+    background-color:pink;
+    color:white;
+}
+footer-content{
+    display:flex;
+    margin:0 auto;
+    font-size:: 10px;
+}
+footer{
+    background-color:pink;
+    width:100%;
+    padding::70px,30px,20px;;
+}
+footerBottom p{
+    text-align:center;
+    bottom:0;
+    position:relative;
+}
